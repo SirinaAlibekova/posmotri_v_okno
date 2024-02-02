@@ -40,10 +40,11 @@ ol {
 .content {
   display: grid;
   grid-template-columns: 711px auto;
-  justify-content: center;
   align-content: end;
+  justify-content: center;
   gap: 30px;
   inline-size: 1140px;
+  max-block-size: 534px;
   margin: 133px 30px;
 }
 
